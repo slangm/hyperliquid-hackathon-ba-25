@@ -5,6 +5,9 @@
 - **Primary Persona:** Global middle-class savers without direct access to U.S. markets who expect Web2 simplicity (email/social login, MPC wallets, clean UX).
 - **Hackathon Scope:** Ship one live product—**HyperFi Savings Account** (leveraged HypurrFi vault)—and surface wireframes for upcoming modules (Trade.xyz equities, Ondo RWAs, copy agents).
 
+### Live Demo
+- **URL:** https://hyperfisuperapp.vercel.app/
+
 ### System Overview
 | Layer | Responsibilities | Stack |
 | --- | --- | --- |
