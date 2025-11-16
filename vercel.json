@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "submissions/decentralized_wealth_manager/frontend/next.config.ts",
+      "use": "@vercel/next"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "submissions/decentralized_wealth_manager/frontend/$1"
+    }
+  ]
+}
+
