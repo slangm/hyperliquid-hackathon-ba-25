@@ -1,0 +1,8 @@
+[submodule "submissions/decentralized_wealth_manager/contracts/lib/openzeppelin-contracts"]
+	path = submissions/decentralized_wealth_manager/contracts/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "submissions/decentralized_wealth_manager/contracts/lib/solmate"]
+	path = submissions/decentralized_wealth_manager/contracts/lib/solmate
+	url = https://github.com/transmissions11/solmate
+[submodule "lib/solmate"]
+	branch = v7

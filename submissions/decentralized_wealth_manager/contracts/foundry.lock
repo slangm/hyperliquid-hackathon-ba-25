@@ -1,0 +1,14 @@
+{
+  "lib/openzeppelin-contracts": {
+    "tag": {
+      "name": "v4.9.6",
+      "rev": "dc44c9f1a4c3b10af99492eed84f83ed244203f6"
+    }
+  },
+  "lib/solmate": {
+    "branch": {
+      "name": "v7",
+      "rev": "eaa7041378f9a6c12f943de08a6c41b31a9870fc"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# Environment / secrets
+.env
+*.env
+*.env.*
+!submissions/decentralized_wealth_manager/contracts/.env.example
+!submissions/decentralized_wealth_manager/frontend/.env.local.example
+
+# Foundry artifacts
+submissions/decentralized_wealth_manager/contracts/cache/
+submissions/decentralized_wealth_manager/contracts/out/
+submissions/decentralized_wealth_manager/contracts/broadcast/
+
+# Wallet keystores
+submissions/decentralized_wealth_manager/contracts/wallets/*.json
+submissions/decentralized_wealth_manager/contracts/wallets/*.keystore
+
+# Node artifacts
+submissions/decentralized_wealth_manager/frontend/node_modules/
+submissions/decentralized_wealth_manager/frontend/.next/
+submissions/decentralized_wealth_manager/frontend/.turbo/
+
+# External vendor assets
+/external/
+
