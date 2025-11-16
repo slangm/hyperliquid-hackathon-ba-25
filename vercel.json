@@ -2,7 +2,7 @@
   "version": 2,
   "builds": [
     {
-      "src": "submissions/decentralized_wealth_manager/frontend/next.config.ts",
+      "src": "submissions/decentralized_wealth_manager/frontend/package.json",
       "use": "@vercel/next"
     }
   ],
