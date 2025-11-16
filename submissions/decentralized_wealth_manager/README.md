@@ -7,6 +7,7 @@
 
 ### Live Demo
 - **URL:** https://hyperfisuperapp.vercel.app/
+- **Video:** https://www.loom.com/share/ef255b1ebce245cdb00120a3e11b353b
 
 ### System Overview
 | Layer | Responsibilities | Stack |
